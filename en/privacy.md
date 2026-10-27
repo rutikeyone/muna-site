@@ -26,19 +26,19 @@ You can revoke permissions in the iPhone Settings app.
 
 ## Advertising and tracking
 
-Muna is free and shows ads: a banner on the Home and History screens and, sometimes, a full-screen ad after a file is saved or sent. Ads come from Yandex Advertising Network and VK Advertising Network.
+Muna is free and shows ads: a banner on the Home and History screens and, sometimes, a full-screen ad after a file is saved or sent. Ads come from Yandex Advertising Network.
 
-- The ad networks' SDKs receive technical data needed to show ads: device model, iOS version, language, region, IP address and ad interactions.
-- After the welcome screen, iOS asks whether Muna may track you. Only if you tap Allow do the ad networks get the advertising identifier (IDFA) and may show ads closer to your interests. If you ask not to track, you still see ads, just less personalized.
+- The Yandex Mobile Ads SDK receives technical data needed to show ads: device model, iOS version, language, region, IP address and ad interactions.
+- After the welcome screen, iOS asks whether Muna may track you. Only if you tap Allow does Yandex get the advertising identifier (IDFA) and may show ads closer to your interests. If you ask not to track, you still see ads, just less personalized.
 - You can change this at any time: iPhone Settings → Privacy & Security → Tracking.
-- Your documents, their text and file names are never shared with the ad networks.
+- Your documents, their text and file names are never shared with Yandex.
 
-The networks process this data under their own policies: [Yandex](https://yandex.com/legal/confidential/) and [VK](https://help.mail.ru/legal/terms/adsvk/privacy/).
+Yandex processes this data under its own [privacy policy](https://yandex.com/legal/confidential/).
 
 ## What we don't do
 
 - We don't collect analytics or usage statistics ourselves.
-- We don't sell data. Apart from the ad networks above, we don't share it.
+- We don't sell data. Apart from Yandex Advertising Network above, we don't share it.
 - We don't store your documents on any server.
 
 ## Children
